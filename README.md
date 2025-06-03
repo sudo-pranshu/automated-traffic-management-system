@@ -2,8 +2,6 @@
 
 A real-time, AI-powered traffic monitoring and management system using **YOLOv8**, **OpenCV**, **Tesseract OCR**, and **Streamlit**. This project simulates intelligent traffic control by detecting vehicles and number plates from live video feeds, logging traffic data, and displaying analytics on a live dashboard.
 
-> 👨‍💻 Built by [sudo-pranshu](https://github.com/sudo-pranshu)
-
 ---
 
 ## 🔧 Features
@@ -114,20 +112,6 @@ Detected vehicles are shown with bounding boxes and overlayed number plates.
 - 🕵️‍♂️ Rule violation tracking and alert system
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and share it.
-
+> 👨‍💻 Built by [sudo-pranshu](https://github.com/sudo-pranshu)
 ---
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-- [Ultralytics](https://github.com/ultralytics) for YOLOv8
-- [OpenCV team](https://opencv.org/)
-- [Tesseract OCR](https://github.com/tesseract-ocr)
-
----
-
 > 💡 Want to contribute? Feel free to open issues or submit a pull request!
